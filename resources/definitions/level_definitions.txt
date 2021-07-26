@@ -1,0 +1,37 @@
+# Level 4
+# The good old final four level with an upgraded background
+
+START_LEVEL
+level_name: Final Four (V2)
+ball_velocities:45,5
+background:image(background_images/clouds.png)
+paddle_speed:8
+paddle_width:160
+block_definitions:definitions/final_four_block_definitions.txt
+blocks_start_x:0
+blocks_start_y:0
+row_height:10
+num_blocks:105
+START_BLOCKS
+-
+-
+-
+-
+-----------------------------------
+---GGGG---G---G----GGGGG---G---G---
+---b------b---b----b-------b--b----
+---yyyy---y---y----y-------yyy-----
+---r------r---r----r-------r--r----
+---g------ggggg----ggggg---g---g---
+-----------------------------------
+-----------------------------------
+------pppppp---pppppp---ppppp------
+------w----w---w----w---w---w------
+------o----o---o----o---o---o------
+------n----n---n----n---nnnnn------
+------s----s---s----s---s----------
+------hhhhhh---hhhhhh---h----------
+-----------------------------------
+
+END_BLOCKS
+END_LEVEL
